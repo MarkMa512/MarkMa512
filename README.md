@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkMa512
 - 👀 I’m interested in full stack software development. 
-- 🌱 I’m currently learning Java, JavaScript(React) and Flask
+- 🌱 I’m currently learning Java, JavaScript(React) and Rust
 - 📸 I'm currently working on my Photography portfolio website. 
 
 <!---
