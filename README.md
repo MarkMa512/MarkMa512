@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkMa512
-- 👀 I aspire to become a full stack software engineer. 
-- 🌱 I’m currently learning Java, JavaScript(React) and Rust
+- 👀 I specialize in backend development. 
+- 🌱 I’m currently learning Python, Java and Rust. 
 
 <!---
 MarkMa512/MarkMa512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
